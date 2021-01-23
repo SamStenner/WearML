@@ -1,7 +1,7 @@
 ## WearML Wrapper for Android
 
 ### A lightweight library that provides programmatic access to WearML funcitonality for Realwear HMT devices.
-### (Please note this project is not officially associated with Realwear Inc)
+#### (Please note this project is not officially associated with Realwear Inc)
 
 
 ## Code Example
